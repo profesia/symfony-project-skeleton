@@ -1,0 +1,16 @@
+{
+    "name": "profesia/symfony-project-skeleton",
+    "description": "Base skeleton for Symfony 5+ applications",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Matej Bádal",
+            "email": "matej.badal@profesia.sk"
+        }
+    ],
+    "require": {
+        "profesia/psr-middlewares": "1.0",
+        "profesia/psr15-symfony-bundle": "2.1"
+    }
+}
