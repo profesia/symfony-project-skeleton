@@ -10,6 +10,7 @@
         }
     ],
     "require": {
+        "php": ">=8.0",
         "profesia/psr-middlewares": "~1.0",
         "profesia/psr15-symfony-bundle": "~2.1.1"
     }
